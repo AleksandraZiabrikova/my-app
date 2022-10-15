@@ -12,6 +12,15 @@ export default function App() {
           <Search />
           <Overview />
           <Temperature />
+          <small>
+            <a
+              href="https://github.com/AleksandraZiabrikova/my-app.git"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open-source code by Aleksandra Ziabrikova
+            </a>
+          </small>
         </div>
       </div>
     </div>
