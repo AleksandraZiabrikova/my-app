@@ -1,0 +1,29 @@
+.weather-temperature img {
+  height: 64px;
+  width: 64px;
+  margin-right: 5px;
+}
+
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
+#temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.units {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
+}
+a {
+  text-decoration: none;
+}
